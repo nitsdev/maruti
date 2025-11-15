@@ -1,0 +1,9 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.5",
+        "vlucas/phpdotenv": "^5.5",
+        "barryvdh/laravel-dompdf": "^2.1",
+        "google/apiclient": "2.15",
+        "phpoffice/phpspreadsheet": "^5.1"
+    }
+}
